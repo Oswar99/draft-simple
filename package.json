@@ -1,5 +1,5 @@
 {
-  "name": "draft-simple",
+  "name": "@oswar99/draft-simple",
   "version": "0.1.0",
   "private": false,
   "author": {
@@ -9,7 +9,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:Oswar99/draft-simple.git"
+    "url": "git://git@github.com:Oswar99/draft-simple.git"
   },
   "homepage": "https://github.com/Oswar99/draft-simple",
   "publishConfig": {
